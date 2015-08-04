@@ -1,3 +1,7 @@
 monday
 
+<<<<<<< HEAD
 ok done.
+=======
+Momday is Holiday.
+>>>>>>> 6358c742b7847021fbbeb09cb8a1a45513fec0df
